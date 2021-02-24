@@ -64,6 +64,7 @@ and plotting them against on a Graph
 
 ## Todo ##
 
+- Usage of numpy for easier manipulation
 - Unittest Coverage
 
 ## Distribution ##
