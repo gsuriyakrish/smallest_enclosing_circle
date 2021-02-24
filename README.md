@@ -22,18 +22,22 @@ and plotting them against on a Graph
 
         * docker-compose stop
 
-### Without using Docker ###
+### Without using Docker###
 1. Download this project or clone the repository.
 2. Go to the project folder.
-3. Create a virtual environment
+3. Install virtualenv
+
+        pip install virtualenv
+ 
+4. Create a virtual environment in project root folder
 
         virtualenv venv
-     
-4. Activate the environment
-     
-        source venv/bin/activate
         
-5. Install dependencies
+5. Go to the project folder and activate virtual environment
+ 
+        \venv\Scripts\activate.bat            
+        
+6. Install dependencies
 
        pip install -r requirements.txt
        
@@ -52,7 +56,7 @@ and plotting them against on a Graph
      `print(smallest_circle.pilot(input_points=6))`
      
      `print(smallest_circle.pilot(input_points=20))`
-
+     
 ## Libraries Used ##
 
 - Check `requirements.txt`
