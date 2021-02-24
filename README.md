@@ -22,7 +22,8 @@ and plotting them against on a Graph
 
         * docker-compose stop
 
-### Without using Docker###
+### Without using Docker ###
+
 1. Download this project or clone the repository.
 2. Go to the project folder.
 3. Install virtualenv
