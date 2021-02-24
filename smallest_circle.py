@@ -5,6 +5,7 @@ and plotting them against on a 2D Graph
 INPUT : [(9, -6), (-14, -15), (-5, 9), (5, 1), (12, -7), (9, -14)]
 OUTPUT : Centre : (-3, -6)
          Radius : 15.1
+TODO : Usage of numpy for easier manipulation
 """
 
 import math
