@@ -62,6 +62,14 @@ and plotting them against on a Graph
 
 - Check `requirements.txt`
 
+## Todo ##
+
+- Unittest Coverage
+
+## Distribution ##
+
+- A git repository
+
 ## Contribution guidelines ##
 - Forks are always appreciated
 

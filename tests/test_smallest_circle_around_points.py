@@ -1,3 +1,9 @@
+"""
+This module is for testing the
+the smallest circle around a cluster of points in 2D
+TODO : Cover more scenario in unittest
+"""
+
 import unittest
 from smallest_circle import pilot
 from os import path
