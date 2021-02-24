@@ -30,7 +30,7 @@ and plotting them against on a Graph
 
         pip install virtualenv
  
-4. Create a virtual environment in project root folder
+4. Create a virtual environment(venv) in project root folder
 
         virtualenv venv
         
